@@ -29,8 +29,6 @@ Also, let’s be honest: sometimes you just want a to-do list that doesn’t ask
   - Filtering views (All / Active / Completed).
   - Updating the counter in real time.
 
-> Note: It doesn't use localStorage yet, so tasks reset on page reload — feel free to add it!
-
 ## Want to Customize It?
 
 - 🎨 Tweak the design in `styles.css`.
