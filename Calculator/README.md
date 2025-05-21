@@ -1,5 +1,3 @@
-# Projects
-Projects
 This is a simple yet fully functional Calculator App built using plain HTML, CSS, and JavaScript. It supports basic arithmetic operations including addition, subtraction, multiplication, and division, as well as percentage calculation, clear entry (C), all clear (AC), and a dark mode toggle for comfortable viewing in low-light environments.
 Features-
 i)Basic arithmetic operations: +, -, *, /
